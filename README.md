@@ -1,0 +1,2 @@
+# Recursive-Function-That-Accepts-An-Integer
+Using C++ Write a recursive function that accepts an integer, and then count and return the number of the digit “5” in that integer. Then write the main function to test it. For example: If the integer is 2352, then function should return 1, where there is one “5” in the integer. If the integer is 13, then function should return 0, where there is no “5” in the integer. If the integer is 52558, then function should return 3, where there is 3 “5” in the integer. 0 points if not using recursion. 0 points if using global variables
